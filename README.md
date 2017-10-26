@@ -1,8 +1,9 @@
 # Cyber Competitions
 
-A curated list of of references for high school and middle school cyber competitions.
+A curated list of of references for high school and middle school cyber competitions. Many of these resources were found on the [Awesome CTF Repository](https://github.com/apsdehal/awesome-ctf).
 
-### Contributing
+### Responsible Used
+While participating in competitions you will learn about different tools. You should only use these tools with the permission of the system owner.
 
 
 ### Why?
@@ -13,7 +14,10 @@ Getting started with cyber competitions can be a daunting task. We hope this col
 ### Contents
 
 - [Competitions](#competitions)
-
+  - [CyberPatriot](https://www.uscyberpatriot.org/)
+  - [Holiday Hack Challenge](https://holidayhackchallenge.com/)
+  - [PicoCTF](https://picoctf.com/)
+  - [SoCal Cyber Cup](https://socalcc.siplay.com/site/)
 
 - [Resources](#resources)
   - [Cryptography](#crypto)
