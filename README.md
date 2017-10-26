@@ -81,16 +81,6 @@ Getting started with cyber competitions can be a daunting task. We hope this col
 
 ## Operating Systems
 
-*Penetration testing and security lab Operating Systems*
-
-- [BackBox](https://backbox.org/) - Based on Ubuntu
-- [BlackArch Linux](https://blackarch.org/) - Based on Arch Linux
-- [Fedora Security Lab](https://labs.fedoraproject.org/security/) - Based on Fedora
-- [Kali Linux](https://www.kali.org/) - Based on Debian
-- [Parrot Security OS](https://www.parrotsec.org/) - Based on Debian
-- [Pentoo](http://www.pentoo.ch/) - Based on Gentoo
-- [URIX OS](http://urix.us/) - Based on openSUSE
-- [Wifislax](http://www.wifislax.com/) - Based on Slackware
 
 *Malware analysts and reverse-engineering*
 
@@ -101,17 +91,17 @@ Getting started with cyber competitions can be a daunting task. We hope this col
 *Collections of installer scripts, useful tools*
 
 - [CTF Tools](https://github.com/zardus/ctf-tools) - Collection of setup scripts to install various security research tools.
-- [LazyKali](https://github.com/jlevitsk/lazykali) - A 2016 refresh of LazyKali which simplifies install of tools and configuration.
 
 ## Tutorials
 
 *Tutorials to learn how to play CTFs*
 
+- [California Cyber Hub](https://www.ca-cyberhub.org/) - Great training resources
 - [CTF Field Guide](https://trailofbits.github.io/ctf/) - Field Guide by Trails of Bits
 - [CTF Resources](http://ctfs.github.io/resources/) -  Start Guide maintained by community
+- [Cybrary](https://www.cybrary.it/) - Free Online Training
 - [Damn Vulnerable Web Application](http://www.dvwa.co.uk/) PHP/MySQL web application that is damn vulnerable
 - [How to Get Started in CTF](https://www.endgame.com/blog/how-get-started-ctf) - Short guideline for CTF beginners by Endgame
-- [MIPT CTF](https://github.com/xairy/mipt-ctf) - A small course for beginners in CTFs (in Russian)
 
 ## Wargames
 
