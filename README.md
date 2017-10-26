@@ -2,7 +2,7 @@
 
 A curated list of of references for high school and middle school cyber competitions. Many of these resources were found on the [Awesome CTF Repository](https://github.com/apsdehal/awesome-ctf).
 
-### Responsible Used
+### Responsible Use
 While participating in competitions you will learn about different tools. You should only use these tools with the permission of the system owner.
 
 
