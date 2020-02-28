@@ -16,7 +16,8 @@ Getting started with cyber competitions can be a daunting task. We hope this col
   - [CyberPatriot](https://www.uscyberpatriot.org/)
   - [Holiday Hack Challenge](https://holidayhackchallenge.com/)
   - [PicoCTF](https://picoctf.com/)
-  - [SoCal Cyber Cup](https://socal.cc)
+  - [SoCal Cyber Cup](https://socal.cc)    
+  - [SoCal Cyber Cup Haiku Range](https://socal.ccc.haikurange.cloud)
 
 - [Resources](#resources)
   - [Tutorials](#tutorials)
@@ -42,6 +43,11 @@ Getting started with cyber competitions can be a daunting task. We hope this col
 - [How to Get Started in CTF](https://www.endgame.com/blog/how-get-started-ctf) - Short guideline for CTF beginners by Endgame
 
 ## Networking    
+
+[ip subnet calculator](http://www.subnet-calculator.com)     
+[TCP/IP Guide](http://tcpipguide.com)      
+[Warriors of the Net](http://www.youtube.com/watch?v=PBWhzz_Gn10)     
+
 
 ## Forensics
 
