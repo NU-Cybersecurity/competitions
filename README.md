@@ -16,7 +16,7 @@ Getting started with cyber competitions can be a daunting task. We hope this col
   - [CyberPatriot](https://www.uscyberpatriot.org/)
   - [Holiday Hack Challenge](https://holidayhackchallenge.com/)
   - [PicoCTF](https://picoctf.com/)
-  - [SoCal Cyber Cup](https://socalcc.siplay.com/site/)
+  - [SoCal Cyber Cup](https://socal.cc)
 
 - [Resources](#resources)
   - [Tutorials](#tutorials)
