@@ -74,4 +74,4 @@ Getting started with cyber competitions can be a daunting task. We hope this col
 
 *Various Wikis available for learning about competitions*
 
-- [ISIS Lab](https://github.com/isislab/Project-Ideas/wiki) - CTF Wiki by Isis lab
+- [osiris Lab](https://github.com/isislab/Project-Ideas/wiki) - CTF Wiki by osiris lab
